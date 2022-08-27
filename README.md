@@ -5,7 +5,6 @@
 </p>
 
 
-Here are some facts about me:
 - 🌐 Portfolio: https://firnasahmed.github.io/me
 - 📧 Email: firnasahamedinfo@gmail.com
 
